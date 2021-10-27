@@ -1,0 +1,200 @@
+This is a logfile for FunnySound scripts. . Records all events with timestamps. 
+
+Timestamp,Event
+
+2018-11-22 13:47:31,Started
+2018-11-22 14:09:56,Started
+2018-11-22 14:09:58,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_&_pop.mp3
+2018-11-22 14:10:15,q pressed, exiting.
+2018-11-22 14:10:47,Started
+2018-11-22 14:10:49,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_&_pop.mp3
+2018-11-22 14:10:51,q pressed, exiting.
+2018-11-22 14:13:04,Started
+2018-11-22 14:13:05,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_&_pop.mp3
+2018-11-22 14:13:16,q pressed, exiting.
+2018-11-22 14:13:36,Started
+2018-11-22 14:13:38,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-11-22 14:13:42,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-11-22 14:13:45,q pressed, exiting.
+2018-11-22 14:14:40,Started
+2018-11-22 14:14:42,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-11-22 14:14:44,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-11-22 14:14:49,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-11-22 14:14:51,q pressed, exiting.
+2018-11-22 14:24:07,Started
+2018-11-22 14:25:25,Started
+2018-11-22 14:25:26,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-11-22 14:25:30,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-11-22 14:25:32,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-11-22 14:25:33,q pressed, exiting.
+
+2018-11-22 14:27:57,Started
+2018-11-22 14:27:59,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-11-22 14:28:01,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-11-22 14:28:02,q pressed, exiting.
+
+2018-11-23 14:43:37,Started
+2018-11-23 14:43:38,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-11-23 14:43:39,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-11-23 14:43:40,r pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2018-11-23 14:43:41,t pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/t/Several_men_coughing.mp3
+2018-11-23 14:43:42,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-11-23 14:43:42,t pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/t/Several_men_coughing.mp3
+2018-11-23 14:43:43,r pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2018-11-23 14:43:44,r pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2018-11-23 14:43:44,r pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2018-11-23 14:43:45,r pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2018-11-23 14:43:56,r pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2018-11-23 14:43:57,r pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2018-11-23 14:43:58,r pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2018-11-23 14:44:06,r pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2018-11-23 14:44:07,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-11-23 14:44:08,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-11-23 14:44:08,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-11-23 14:44:09,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-11-23 14:44:09,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-11-23 14:44:10,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-11-23 14:44:10,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-11-23 14:44:11,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-11-23 14:45:42,q pressed, exiting.
+
+2018-11-23 15:23:37,Started
+
+2018-11-26 13:09:53,Started
+2018-11-26 13:09:57,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-11-26 13:10:01,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-11-26 13:10:03,q pressed, exiting.
+
+2018-11-26 13:18:01,Started
+
+2018-12-01 16:15:16,Started
+2018-12-01 16:15:25,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-12-01 16:15:29,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-12-01 16:15:30,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-12-01 16:15:32,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-12-01 16:15:36,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-12-01 16:15:40,r pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2018-12-01 16:15:44,t pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/t/Several_men_coughing.mp3
+2018-12-01 16:15:46,q pressed, exiting.
+
+2018-12-01 16:15:58,Started
+2018-12-01 16:20:16,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-12-01 16:21:05,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-12-01 16:21:08,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-12-01 16:21:09,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-12-01 16:21:10,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-12-01 16:21:10,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-12-01 16:21:11,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-12-01 16:21:12,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-12-01 16:21:16,r pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2018-12-01 16:21:19,t pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/t/Several_men_coughing.mp3
+2018-12-01 16:21:22,t pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/t/Several_men_coughing.mp3
+2018-12-01 16:21:25,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:26,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:33,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:34,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:35,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:35,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:35,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:35,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:36,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:37,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:38,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:38,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:38,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:39,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:39,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:39,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:40,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:40,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:42,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:43,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:44,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:44,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:44,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:46,z pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2018-12-01 16:21:50,q pressed, exiting.
+
+2018-12-08 18:06:55,Started
+2018-12-08 18:06:57,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-12-08 18:06:58,q pressed, exiting.
+
+2018-12-08 18:07:56,Started
+
+2018-12-08 18:45:43,Started
+
+2018-12-08 18:47:41,Started
+2018-12-08 18:47:42,q pressed, exiting.
+
+2018-12-08 18:55:10,Started
+
+2018-12-08 18:56:11,Started
+
+2018-12-08 18:56:45,Started
+2018-12-08 18:56:51,e pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2018-12-08 18:56:52,q pressed, exiting.
+
+2018-12-09 10:56:37,Started
+2018-12-09 10:56:38,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2018-12-09 10:56:42,r pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2018-12-09 10:56:43,q pressed, exiting.
+
+2018-12-09 12:30:31,Started
+
+2018-12-09 17:24:18,Started
+
+2018-12-16 11:04:00,Started
+
+2021-10-20 15:05:44,Started
+2021-10-20 15:05:45,w pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2021-10-20 15:06:17,e pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2021-10-20 15:06:17,e pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2021-10-20 15:06:18,e pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2021-10-20 15:06:18,r pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2021-10-20 15:06:18,r pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2021-10-20 15:06:19,r pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2021-10-20 15:06:20,e pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2021-10-20 15:06:25,w pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2021-10-20 15:06:25,w pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2021-10-20 15:06:28,q pressed, exiting.
+
+2021-10-20 15:10:49,Started
+2021-10-20 15:11:36,w pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2021-10-20 15:11:39,w pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_pop.mp3
+2021-10-20 15:11:41,e pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2021-10-20 15:11:42,r pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2021-10-20 15:11:44,r pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2021-10-20 15:11:44,r pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2021-10-20 15:11:45,r pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2021-10-20 15:11:45,r pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/r/Kiss.mp3
+2021-10-20 15:11:54,t pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/t/Several_men_coughing.mp3
+2021-10-20 15:12:07,q pressed, exiting.
+
+2021-10-20 15:12:20,Started
+2021-10-20 15:12:50,e pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/e/One_man_continuous_snoring.mp3
+2021-10-20 15:13:12,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:13:14,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:13:16,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:13:19,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:13:20,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:13:21,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:13:23,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:13:23,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:13:24,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:13:25,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:13:25,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:13:26,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:14:02,q pressed, exiting.
+
+2021-10-20 15:35:04,Started
+2021-10-20 15:35:25,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:35:26,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:35:32,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:38:48,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:38:51,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:39:01,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:39:05,q pressed, exiting.
+
+2021-10-20 15:39:24,Started
+2021-10-20 15:48:54,z pressed. Playing: /home/pi/dev/17_-_FunnySoundKeyboard/Sounds/z/Short_raspberry.mp3
+2021-10-20 15:48:55,q pressed, exiting.
